@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net451;netcoreapp1.1;netstandard1.3</TargetFrameworks>
+    <Authors>Harry McIntyre</Authors>
+    <Title>MetaTypes</Title>
+    <Company>Harry McIntyre</Company>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Product>Harry McIntyre</Product>
+    <Description>Transmuter</Description>
+    <PackageProjectUrl>https://github.com/mcintyre321/Transmuter</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/mcintyre321/Transmuter/blob/master/licence.md</PackageLicenseUrl>
+    <PackageTags>MetaProgramming, object mapping</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Transmuter</PackageId>
+    <Copyright>Harry McIntyre</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OneOf" Version="2.1.125" />
+    <PackageReference Include="system.valuetuple" Version="4.4.0" />
+    <PackageReference Include="valueof" Version="1.0.7" />
+  </ItemGroup>
+
+
+</Project>
