@@ -17,8 +17,7 @@
 
   <ItemGroup>
     <PackageReference Include="OneOf" Version="2.1.125" />
-    <PackageReference Include="system.valuetuple" Version="4.4.0" />
-    <PackageReference Include="valueof" Version="1.0.7" />
+    <PackageReference Include="system.valuetuple" Version="4.4.0" />    
   </ItemGroup>
 
 
