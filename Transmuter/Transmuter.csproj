@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFrameworks>net451;netcoreapp1.1;netstandard1.3</TargetFrameworks>
     <Authors>Harry McIntyre</Authors>
-    <Title>MetaTypes</Title>
+    <Title>Transmuter</Title>
     <Company>Harry McIntyre</Company>
     <PackageVersion>1.0.0</PackageVersion>
     <Product>Harry McIntyre</Product>
