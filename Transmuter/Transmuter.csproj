@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="OneOf" Version="2.1.125" />
+    <PackageReference Include="OneOf" Version="2.1.124" />
     <PackageReference Include="system.valuetuple" Version="4.4.0" />    
   </ItemGroup>
 
